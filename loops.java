@@ -7,7 +7,7 @@ public class loops {
         //dowhileloop();
         //compareloop();
         //sumofn();
-        printtable();
+        //printtable();
     }
 int n;
     public static void forloop(){
