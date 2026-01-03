@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class conditinal {
+public class ifelse {
     public static void main(String[] args){
         //ifloop();
         //evenorodd();
